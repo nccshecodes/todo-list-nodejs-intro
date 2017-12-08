@@ -1,0 +1,23 @@
+{
+  "name": "gym-012-master",
+  "version": "1.0.0",
+  "description": "[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nccshecodes/todo-list-nodejs-intro.git"
+  },
+  "author": "Nathalie Christmann-Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nccshecodes/todo-list-nodejs-intro/issues"
+  },
+  "homepage": "https://github.com/nccshecodes/todo-list-nodejs-intro#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
